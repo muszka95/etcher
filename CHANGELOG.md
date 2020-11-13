@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.111
+## (2020-11-13)
+
+* Remove "Validate write on success" setting. Validation is always enabled, press the "skip" button to skip it. [Alexis Svinartchouk]
+* Update electron to v9.3.3 [Alexis Svinartchouk]
+* Update etcher-sdk to 5.1.1, use WASM ext2fs module [Alexis Svinartchouk]
+
 # v1.5.110
 ## (2020-11-04)
 
